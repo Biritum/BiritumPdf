@@ -1,5 +1,7 @@
 # BiritumPdf
 
+[YouTube intro](https://www.youtube.com/watch?v=KLd_Hrz2ld0)
+
 ## What is it?
 A PDF generation library implemented in pure Kotlin. i.e. there is no 
 dependencies on any target specific libraries so it should be possible
